@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NehaJakhar
-- 🌱 I’m currently learning html, css and javascript.
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/neha-jakhar-aaa809202)
 
 
